@@ -1,0 +1,1 @@
+Este proyecto es un clon de https://github.com/jquemada/random.git y sirve como práctica para un curso de Miriada X.
